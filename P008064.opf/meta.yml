@@ -3,5 +3,17 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W1KG25186
   title: པདྨ་བཀའ་ཐང།
-  volume: ''
+  volume:
+    2ca4b80fb05843a3bdb3c87843efee28:
+      image_group_id: I1KG25188
+      title: Volume 1 of pad+ma bka' thang/
+      volume_number: 1
+      total_pages: 402
   author: ''
+ebook_metadata:
+  title: པདྨ་བཀའ་ཐང།
+  author: ''
+  sku: P008064
+  cover: cover.jpg
+  layers:
+  - pagination
