@@ -1,5 +1,7 @@
 id: P008064
 initial_creation_type: ocr
+created_at: 25/03/2020
+last_modified_at: 25/11/2021
 source_metadata:
   id: bdr:W1KG25186
   title: པདྨ་བཀའ་ཐང།
@@ -11,10 +13,3 @@ source_metadata:
       volume_number: 1
       total_pages: 402
       base_file: v001.txt
-ebook_metadata:
-  title: པདྨ་བཀའ་ཐང།
-  author: ''
-  sku: P008064
-  cover: cover.jpg
-  layers:
-  - pagination
